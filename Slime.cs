@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class Slime : MonoBehaviour
 {
-   public float damage = 1;
+   public float damage;
    Rigidbody2D rb;
    public DetectionZone detectionZone;
-   public float moveSpeed = 550f;
+   public float moveSpeed;
 
 
    void Start(){

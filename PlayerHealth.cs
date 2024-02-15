@@ -11,7 +11,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
    public GameObject gameOverMenu;
 
    bool isAlive = true;
-   public float maxHealth = 10f;
+   public float maxHealth;
    
 
 

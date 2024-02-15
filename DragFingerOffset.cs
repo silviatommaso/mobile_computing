@@ -13,10 +13,10 @@ public class DragFingerOffset : MonoBehaviour
         }
     }
 
-    public float Speed = 100f;
+    public float Speed;
     private float attackInterval = 1.3f;  // Intervallo tra gli attacchi in secondi
 
-    public float idleFriction = 0f;
+    public float idleFriction;
     public GameObject swordHitbox;
     Rigidbody2D rb;
     Animator animator;

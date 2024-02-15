@@ -6,7 +6,7 @@ using TMPro;
 
 public class PortaMonete : MonoBehaviour
 {
-    public int monete = 0;
+    private int monete = 0;
     public TextMeshProUGUI contaMoneteText;
 
 

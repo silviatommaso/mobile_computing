@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class SwordHitbox : MonoBehaviour
 {
-    public float knockBackForce = 2000f;
-    public float swordDamage = 1;
+    public float knockBackForce;
+    public float swordDamage;
     public Collider2D swordCollider;
     public Vector3 faceRight = new Vector3(0, 0, 0);
     public Vector3 faceLeft = new Vector3(-2, 0, 0);

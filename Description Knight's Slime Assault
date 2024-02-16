@@ -25,6 +25,10 @@ utilizzare nuovamente questi ultimi.
 Il gioco è infinito, l'obiettivo è resistere quanto più tempo possibile, divertendosi a battere di volta in volta i propri record di gioco. 
 
 
+
 ATTENZIONE: Nella versione originale c'è anche una colonna sonora che accompagna il giocatore nella partita, oltre a un suono per quando muore e un'ulteriore melodia per il menù 
 principale. Purtroppo nell'esportazione del gioco da Unity al mobile, i suoni non si sentono più (nonostante dal simulatore dell'editor funzionino). In allegato si possono comunque
 trovare i brani registrati (composti appositamente per il gioco, in parte anche da me) e gli script corrispondenti.
+
+Autore: Tommaso Silvia, matricola 577252
+Email: sil.tommaso@stud.uniroma3.it

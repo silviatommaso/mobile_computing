@@ -1,0 +1,30 @@
+Knight's Slime Assault
+
+Knight's Slime Assault è un gioco mobile multipiattaforma. 
+
+Il gioco è ambientato in un castello madievale diroccato, circondato da una foresta. Il giocatore dovrà affrontare gli slime che popolano le rovine è ucciderne quanti più possibile.
+Un'uccisione avviene solo quando il giocatore è in modalità attacco, ovvero solo quando sguuaina la spada. In tutti gli altri casi, se il giocatore tocca lo slime, quest'ultimo gli
+infligge un danno. Ogni attacco allo slime equivale a un danno al nemico, ma ne occorrono 3 per ucciderlo definitivamente.
+
+N.B. : Gli attacchi del giocatore sono a tempo, quindi non controllabili manualmente. 
+
+A ogni uccisione corrisponde un aumento dell'esperienza del cavaliere (barra verde). Ogni qualvolta che la barra si riempie, il cavaliere aumenta di livello e recupera punti salute
+(barra rossa). Attenzione però, a ogni aumento di livello diventa sempre più difficile passare al successivo (richiesta di una quantità sempre maggiore di punti esperienza).
+
+Il cavaliere ha a disposizione tre attacchi speciali:
+  - Generatore casuale di bombe: nell'area attorno al giocatore sono generate bombe in posizione casuale. La bomba può infliggere danni solo allo slime, uccidendolo istantaneamente; 
+  - Congela tempo: l'intera area di gioco si congela, gli slime non possono più muoversi, solo il giocatore può. Attenzione però, resta il fatto che se questo li tocca subisce 
+                   comunque danno. 
+  - Attacco velocizzato: diminuisce l'intervallo che intercorre tra un attacco e l'altro.
+
+N.B. : Gli attacchi speciali sono disponibili a intervalli fissi, ovvero una volta usato un attacco non lo si può più utilizzare per un tot di tempo.
+
+Ogni volta che un nemico muore lascia una moneta. Raccogliere monete è utile perché permette di accedere ai potenziameni degli attacchi speciali: diminuisce l'attesa per poter
+utilizzare nuovamente questi ultimi. 
+
+Il gioco è infinito, l'obiettivo è resistere quanto più tempo possibile, divertendosi a battere di volta in volta i propri record di gioco. 
+
+
+ATTENZIONE: Nella versione originale c'è anche una colonna sonora che accompagna il giocatore nella partita, oltre a un suono per quando muore e un'ulteriore melodia per il menù 
+principale. Purtroppo nell'esportazione del gioco da Unity al mobile, i suoni non si sentono più (nonostante dal simulatore dell'editor funzionino). In allegato si possono comunque
+trovare i brani registrati (composti appositamente per il gioco, in parte anche da me) e gli script corrispondenti.

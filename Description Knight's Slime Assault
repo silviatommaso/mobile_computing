@@ -1,4 +1,5 @@
-Knight's Slime Assault
+KNIGHT'S SLIME ASSAULT
+
 
 Knight's Slime Assault è un gioco mobile multipiattaforma. 
 
@@ -22,13 +23,12 @@ N.B. : Gli attacchi speciali sono disponibili a intervalli fissi, ovvero una vol
 Ogni volta che un nemico muore lascia una moneta. Raccogliere monete è utile perché permette di accedere ai potenziameni degli attacchi speciali: diminuisce l'attesa per poter
 utilizzare nuovamente questi ultimi. 
 
+N.B. : Ogni partita è accompagnata da una colonna sonora originale (composta appositamente per il gioco, in parte anche da me). Lo stesso vale per il sound della morte del nemico e la 
+melodia del menù principale.
+
+
 Il gioco è infinito, l'obiettivo è resistere quanto più tempo possibile, divertendosi a battere di volta in volta i propri record di gioco. 
 
-
-
-ATTENZIONE: Nella versione originale c'è anche una colonna sonora che accompagna il giocatore nella partita, oltre a un suono per quando muore e un'ulteriore melodia per il menù 
-principale. Purtroppo nell'esportazione del gioco da Unity al mobile, i suoni non si sentono più (nonostante dal simulatore dell'editor funzionino). Nella directory "Musica"
-si possono comunque trovare i brani registrati (composti appositamente per il gioco, in parte anche da me) e gli script corrispondenti.
 
 Autore: Tommaso Silvia, matricola 577252
 Email: sil.tommaso@stud.uniroma3.it
